@@ -1,5 +1,5 @@
 exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, telegram, youtube, kapanbotaktif, grupch1, grupch2) => {
-	return `🐼*${BotName}*🐼
+	return `💀*${BotName}*💀
   
 HALO *${id.split("@s.whatsapp.net")[0]}* 
 APA KABAR? SEMOGA BAIK-BAIK SAJA!
@@ -14,16 +14,16 @@ Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi
 
 🗒KUMPULAN COMMAND ${BotName}:
  
-🐼*FUN*🐼
+🐶*FUN*🐶
 
 🐼 _*!pantun*_
-_${BotName}_🍄akan mengirimkanmu pantun secara random
+_${BotName}_🔪akan mengirimkanmu pantun secara random
 
 🐼 _*!animepict*_
-_${BotName}_🍄akan mengirimkanmu gambar anime secara random
+_${BotName}_🔪akan mengirimkanmu gambar anime secara random
 
 🐼 _*!sticker*_
-_${BotName}_🍄akan membuatkan sticker dari gambar yang kamu kirimkan
+_${BotName}_🔪akan membuatkan sticker dari gambar yang kamu kirimkan
 
 Pengggunaan : Kirimkan gambarmu dengan caption !sticker
 
@@ -120,15 +120,15 @@ Contoh : !pasangan covad & covid
 
 
 ⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
-FOLLOW INSTAGRAM SAYA
-${instagram}
+FOLLOW INSTAGRAM NABILA WAJIB! 
+${rrnabila_ayu_w}
 
 • TELEGRAM : ${telegram}
-• Youtube : R E U Z
-• WA : 081271699856
+• Youtube : ASMODEUS
+• WA : 085748931494
 • Pasang Iklan? Chat Whatsapp.
 
-📺 *IKLAN* : *YOUTUBE REUZ*
+📺 *IKLAN* : *rrnabila_ayu_w*
 
 🏚SELALU GUNAKAN MASKER SAAT KELUAR!🏚
 🏚SEMOGA SEHAT SELALU!🏚
